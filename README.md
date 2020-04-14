@@ -17,3 +17,21 @@ source <nombre_del_entorno/bin/activate>
 > En Win10 /Script/activate
 
 > Para desactivar el entorno `deactivate`
+
+## Librerías
+> con entorno activado
+
+Instalar Jupyter, MatPlotLib y Pandas
+```
+pip install jupyter matplotlib pandas
+```
+
+Para fit (Machine Learning)
+```
+pip install sklearn
+```
+
+Para Arboles de decisión
+```
+pip install mlxtend
+```
